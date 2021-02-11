@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald');
+
+.titre{
+ color:#ffffff;
+ font-family:'arial', serif; ;
+ text-align:center;
+ font-weight: bold;
+ text-shadow: 2px 2px 2px #12a3cf;
+ -webkit-text-stroke: 1px rgb(0, 0, 0);
+  font-size: 30px;
+}
+.cp{
+  color:#ffffff;
+  font-family:'arial', serif; ;
+  text-align:center;
+  font-weight: bold;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.452);
+   font-size: 15px;
+}

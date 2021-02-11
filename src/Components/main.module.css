@@ -1,0 +1,15 @@
+.main{
+    background-color:rgba(255, 255, 255, 0.37);
+    width:80vw;
+    margin:auto;
+    padding:5vw;
+    left:0;
+    right:0;
+    margin-top:10vw;
+    box-shadow: 0 10px 10px rgb(79, 111, 255);
+    border-radius:25vw;
+}
+.home {
+    text-align: center;
+  }
+  

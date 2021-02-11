@@ -1,0 +1,21 @@
+.wrapper{
+display:flex;
+border-bottom:2px solid black;
+width:60vw;
+margin:auto;
+padding-top:4%;
+background-color:rgba(255, 255, 255, 0.527);
+}
+
+.element{
+    padding-left:10%;
+}
+@media all and (min-width:375px){
+.wrapper{ 
+    font-size:smaller; 
+}
+
+}
+.imgel{
+padding-left:8vw;
+}

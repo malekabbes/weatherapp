@@ -1,0 +1,13 @@
+.wrapper{
+    display: flex;
+    width: 80vw;
+    margin: auto;
+    background: #ffffff3d;
+    box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.548);
+    border-radius:4vw;
+}
+@media all and (min-width:375px){
+    .wrapper{ 
+        width:70vw;
+    }
+}
